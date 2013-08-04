@@ -5,10 +5,10 @@ if(!defined("APPSDIR"))
 
 
 // inject your stylesheet if you need it
-//$page->addStylesheet("$app_dir/css/style.css");
+//$page->addStylesheet("css/style.css");
 
 // inject your javascript if you need it
-//$page->addScript("$app_dir/scripts/appname.js");
+//$page->addScript("scripts/appname.js");
 
 $html = <<<HTML
 
